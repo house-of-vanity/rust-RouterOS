@@ -1,0 +1,10 @@
+[package]
+name = "rust_router_os"
+version = "0.2.2"
+authors = ["Ultra Desu <ultradesu@hexor.ru>", "Mikrotik Team <wiki.mikrotik.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+rust-crypto = "*"
